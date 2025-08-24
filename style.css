@@ -98,4 +98,5 @@ footer {
     color: white;
     margin-top: 5%;
     padding: 5dpx;
+    positon: fixed;
 }
