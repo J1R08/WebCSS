@@ -11,7 +11,7 @@ h1 {
     color: white;
     font-size: 2.5em;
     margin-top: 200px;
-    margin-bottom: 10%;
+    margin-bottom: 1%;
     margin-left: auto;
     margin-right: auto;
     background: linear-gradient(#3e3939,#141010);
@@ -101,4 +101,5 @@ footer {
     padding: 5dpx;
     positon: fixed;
 }
+
 
