@@ -76,6 +76,7 @@ ul li a:hover {
     gap: 40px;
     padding: 50px 20px 20px;
     margin: 0;
+    margin-bottom: 5%;
 }
 
 .gallery img {
@@ -100,3 +101,4 @@ footer {
     padding: 5dpx;
     positon: fixed;
 }
+
